@@ -1,0 +1,1 @@
+TimesWire::Base.api_key = "5087814c8813d6dc70a7b2610bc236a0:17:67356455" 
